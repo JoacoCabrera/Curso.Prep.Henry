@@ -1,0 +1,7 @@
+Consigna: En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión. 
+
+Variables: Una variable es una manera de asignarle un valor a un "objeto" ya sea una palabra, una letra o un número, con el fin de utilizar ese valor más tarde. 
+Strings: Los strings son un tipo de dato que se utiliza a la hora de usar "palabras" no reservadas. Siempre van entre comillas y cualquier número, signo o cadena de caracteres puede ser un string. 
+Funciones: Las funciones son parecidas a las variables, funcionan como objetos invocables, la diferencia es que estas pueden contener un tipo de código estructurado y un accionar más complejo. 
+Declaraciones if: La declaración "if" es un condicionante. Se utiliza para condicionar o determinar un hecho. Ejemplo "Si esto es así, entonces esto debería ser así". 
+Valores boleanos: Los booleanos son un tipo de datos que se basan en la lógica. Si algo es verdadero no puede ser falso y viceversa.
