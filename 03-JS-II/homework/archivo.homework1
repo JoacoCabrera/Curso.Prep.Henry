@@ -1,4 +1,3 @@
-Consigna: En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
 
 Bucle for: Los bucles for se estructuran de la siguiente manera (1 º una variable con un valor de inicio, 2 º una condición de frenado, 3 º la progresión de los valores asignados ej de uno en uno.). Este bucle se utiliza para repetir un bloque de código muchas veces y la principal diferencia con el bucle “while” es que este tiene la condición de parada desde un principio.
 Operadores lógicos: Estos operadores son utilizados para evaluar dos objetos y retornar un valor mediante lógica booleana.
