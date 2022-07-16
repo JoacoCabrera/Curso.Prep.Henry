@@ -1,0 +1,7 @@
+Un objeto es un elemento con propiedades y metodos. Todo en JS esta basado en objetos.
+Propiedad: La propiedad de un objeto refiere a sus caracteristicas por ejemplo: peso, color, etc.
+Metodos: Los metodos de un objeto se refieren a sus capacidades como por ejemplo: caminar, volar, respirar, etc.
+Bucle for...in:Es un bucle el cual facilita recorrer o acceder a las propiedades de un objeto.
+Existen dos maneras de acceder a las propiedades: 
+Notación de puntos su ventaja es que es más rápida de escribir y más clara de leer.
+Notación por corchetes permite el acceso a propiedades que contienen caracteres especiales y tambien la selección de propiedades usando variables.
