@@ -1,0 +1,2 @@
+Prototype: Los prototipos son un mecanismo mediante el cual los objetos heredan características entre sí. Asi cuando pedimos a un objeto una propiedad que no tiene, la busca en su prototipo en vez de tirar un error.
+Constructor: Es un metodo por el cual podemos brindar propiedades(caracteristicas) y metodos(funcion) a un objeto a partir de una clase.
